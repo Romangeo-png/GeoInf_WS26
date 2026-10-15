@@ -1,4 +1,3 @@
-# GeoInf_WS26
+# Gis
 ## Einheit 1
-!(https://github.com/Romangeo-png/GeoInf_WS26/blob/main/karte%202.png?raw=true)
-
+[enter link description here](https://github.com/Romangeo-png/GeoInf_WS26/blob/main/karte%202.png?raw=true)
